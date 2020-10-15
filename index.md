@@ -32,7 +32,7 @@ Ansible, Puppet, Prometheus, Grafana, Loki, RPM specs, Dpkg, nix, ...
 
 ### IT Values
 
-**Pragmatic** and **KISS** in short. My goal is to always design things (an architecture, a solution, a program, a script, ...) that match the initial need (which is driven, at the end, by customers): this would be the **pragmatic** part. However it does not prevent to make well design solutions to tackle overengineering: this would be the **KISS** part.
+**Pragmatic** and **KISS** in short. My goal is to always design things (an architecture, a solution, a program, a script, ...) that match the initial need (which is driven, at the end, by customers): this would be the **pragmatic** part. However it does not prevent to make well designed solutions to tackle overengineering: this would be the **KISS** part.
 
 ## Career Experience
 
